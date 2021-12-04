@@ -14,12 +14,12 @@
   },
   "legend": {
     "edgeLabel": "연관된 태그",
-    "colorLabel": "In-Degree",
+    "colorLabel": "응집도(Modularity)",
     "nodeLabel": "게임이름, 게임태그"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "In-Degree",
+    "groupSelectorAttribute": "Modularity Class",
     "hoverBehavior": "dim"
   },
   "informationPanel": {
